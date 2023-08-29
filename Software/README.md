@@ -13,13 +13,14 @@ It uses a capacitive humidity sensor and a thermistor to measure the surrounding
 (no analog input pins needed). It's fairly simple to use but requires careful timing to grab data.
 
 ## Libraries for DHT11
-- 
+- The DHT11 sensor doesn't use aditional libraries
 
 ## RP2040 - OLED
 [WEA012864DLPP3N00003](https://store.comet.bg/download-file.php?id=21553) is a Passive-Matrix OLED 128x64 dots
 
 ## Libraries used for OLED
--   
+- OLED.h
+- font.h  
 
 ## Used Software
 - [MPLAB X Ide](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) version 6.00
