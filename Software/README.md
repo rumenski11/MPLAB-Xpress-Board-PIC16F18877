@@ -23,6 +23,6 @@ It uses a capacitive humidity sensor and a thermistor to measure the surrounding
 - font.h  
 
 ## Used Software
-- [MPLAB X Ide](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) version 6.00
+- [MPLAB X Ide](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) version 6.10
 - [Compiler XC8](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/downloads-documentation) version 2.41
-- [MPLAB Code Configurator](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator) version 5.1.17
+- [MPLAB Code Configurator](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator) version 5.3.7

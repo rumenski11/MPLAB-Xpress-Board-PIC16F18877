@@ -6,5 +6,5 @@
 CND_BASEDIR=`pwd`
 # default configuration
 CND_ARTIFACT_DIR_default=dist/default/production
-CND_ARTIFACT_NAME_default=PIC16F-ADCC_MCC_melody.X.production.hex
-CND_ARTIFACT_PATH_default=dist/default/production/PIC16F-ADCC_MCC_melody.X.production.hex
+CND_ARTIFACT_NAME_default=ADC-MCP9701A.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/ADC-MCP9701A.production.hex
