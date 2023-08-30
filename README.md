@@ -34,6 +34,6 @@ Product Features:
 - Low-Power Internal 32 kHz Oscillator
 
 ## Embedded sensors for RP2040
-- MCP9701A - Digitial temperature and humidity sensor
-- DHT11 - Analog temperature sensor
+- MCP9701A - Analog temperature sensor
+- DHT11 - Digitial temperature and humidity sensor
 - WEA012864DLPP3N00003 - OLED display
