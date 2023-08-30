@@ -1,4 +1,4 @@
-## PIC16F - Analog sensor - MCP9701A
+## PIC16F - Analog sensor - MCP9701
 [MCP9701](https://store.comet.bg/Catalogue/Product/5003942/) family are sensors with Linear Active Thermistor Integrated Circuit
 (IC) comprise a family of analog temperature sensors that convert temperature to analog voltage.
 The low-cost, low-power sensors feature an accuracy of ±1°C from +20°C to +70°C (MCP9700B), ±2°C from
